@@ -1,5 +1,3 @@
-#19.	Write a function that takes two unsorted integer arrays as input and
-# returns the index upto which they are identical. Return -1 otherwise.
 a=[5,6,7,8,9]
 x=int(input("enter the num:"))
 def indexret(a,x):
