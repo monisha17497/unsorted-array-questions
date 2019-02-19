@@ -1,0 +1,13 @@
+{
+  "test_fizzbuzz.py::test_return1with1": true, 
+  "test_fizzbuzz.py::test_return2with2": true, 
+  "test_fizzbuzz.py::test_returnBuzzwith10": true, 
+  "test_fizzbuzz.py::test_returnBuzzwith5": true, 
+  "test_fizzbuzz.py::test_returnFizzBuzzwith15": true, 
+  "test_fizzbuzz.py::test_returnFizzwith3": true, 
+  "test_fizzbuzz.py::test_returnFizzwith6": true, 
+  "test_leapyear.py::test_atypical_common_year": true, 
+  "test_leapyear.py::test_atypical_leap_year": true, 
+  "test_leapyear.py::test_normal_common_year": true, 
+  "test_leapyear.py::test_normal_leap_year": true
+}

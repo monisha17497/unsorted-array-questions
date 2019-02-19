@@ -1,0 +1,19 @@
+[
+  "test_alldigit.py::test_CanAssertTrue", 
+  "test_demo1.py::test_inAssert", 
+  "test_demo1.py::test_strAssert", 
+  "test_demo1.py::test_arrayAssert", 
+  "test_demo1.py::test_dictAssert", 
+  "test_fizzbuzz.py::test_canIcallfizzbuzz", 
+  "test_fizzbuzz.py::test_return1with1", 
+  "test_fizzbuzz.py::test_return2with2", 
+  "test_fizzbuzz.py::test_returnFizzwith3", 
+  "test_fizzbuzz.py::test_returnBuzzwith5", 
+  "test_fizzbuzz.py::test_returnFizzwith6", 
+  "test_fizzbuzz.py::test_returnBuzzwith10", 
+  "test_fizzbuzz.py::test_returnFizzBuzzwith15", 
+  "test_leapyear.py::test_normal_leap_year", 
+  "test_leapyear.py::test_normal_common_year", 
+  "test_leapyear.py::test_atypical_common_year", 
+  "test_leapyear.py::test_atypical_leap_year"
+]

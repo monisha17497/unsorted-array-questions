@@ -1,0 +1,18 @@
+[
+  "test/test_demo1.py::test_inAssert", 
+  "test/test_demo1.py::test_strAssert", 
+  "test/test_demo1.py::test_arrayAssert", 
+  "test/test_demo1.py::test_dictAssert", 
+  "test/test_fizzbuzz.py::test_canIcallfizzbuzz", 
+  "test/test_fizzbuzz.py::test_return1with1", 
+  "test/test_fizzbuzz.py::test_return2with2", 
+  "test/test_fizzbuzz.py::test_returnFizzwith3", 
+  "test/test_fizzbuzz.py::test_returnBuzzwith5", 
+  "test/test_fizzbuzz.py::test_returnFizzwith6", 
+  "test/test_fizzbuzz.py::test_returnBuzzwith10", 
+  "test/test_fizzbuzz.py::test_returnFizzBuzzwith15", 
+  "test/test_leapyear.py::test_normal_leap_year", 
+  "test/test_leapyear.py::test_normal_common_year", 
+  "test/test_leapyear.py::test_atypical_common_year", 
+  "test/test_leapyear.py::test_atypical_leap_year"
+]
